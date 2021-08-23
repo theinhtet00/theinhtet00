@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/theinhtet00" target="blank"><img src="https://img.shields.io/twitter/follow/theinhtet00?logo=twitter&style=for-the-badge" alt="theinhtet00" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/theinhtet00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theinhtet00" height="30" width="40" /></a>
 <a href="https://fb.com/theinhtet00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="theinhtet00" height="30" width="40" /></a>
