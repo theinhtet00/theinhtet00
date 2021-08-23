@@ -1,4 +1,4 @@
-![Cover](https://github.com/theinhtet00/theinhtet00/blob/main/cover.jp)
+![Cover](https://github.com/theinhtet00/theinhtet00/blob/main/cover.jpg)
 <h1 align="center">Hi 👋, I'm Thein Htet Oo</h1>
 <h3 align="center">Web Developer</h3>
 
