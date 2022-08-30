@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Thein Htet Oo</h1>
 <h3 align="center">Web Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/theinhtet00" target="blank"><img src="https://img.shields.io/twitter/follow/theinhtet00?logo=twitter&style=for-the-badge" alt="theinhtet00" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
